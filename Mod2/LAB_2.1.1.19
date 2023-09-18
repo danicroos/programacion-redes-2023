@@ -1,0 +1,63 @@
+'''
+    Nombre:     Daniel Zuñiga
+    Fecha:      18-sep-2023
+    Descripcion:
+    Laboratorio: 2.1.1.6
+'''
+print("     *\n    * *\n   *   *\n  *     *\n ***   ***\n   *   *\n   *   *\n   *****")
+
+print("    *")
+print()
+print("   * *")
+print()
+print("  *   *")
+print()
+print(" *     *")
+print()
+print("***   ***")
+print()
+print("  *   *")
+print()
+print("  *   *")
+print()
+print("  *****")
+
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+print("cadena" * 2)
+
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+print(cadena * 2)
+
+print("    *")
+print("   * *")
+print("  *   *")
+print" *     *"
+print("***   ***")
+print("  *   *")
+print"  *   *"
+print("  *****")
+print(cadena * 2)
+
+print("    *")
+print("   * *")
+print("  *   *")
+PRINT(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+PRINT("  *****")
+print("cadena" * 2)
